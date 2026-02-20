@@ -1,0 +1,992 @@
+[
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-007.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "James Bond",
+        "listSlug" : "james-bond",
+        "traktId" : 31806389,
+        "username" : "shearmr"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "James Bond",
+          "listSlug" : "james-bond",
+          "traktId" : 31806389,
+          "username" : "shearmr"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "D259D172-72D0-4E4F-A87A-58D1E3CFF81B",
+    "layout" : "Poster",
+    "name" : "007"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-alien.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Alien",
+        "listSlug" : "alien",
+        "traktId" : 33095198,
+        "username" : "Chilly164"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Alien",
+          "listSlug" : "alien",
+          "traktId" : 33095198,
+          "username" : "Chilly164"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "FE66DB20-15D9-4068-8EEC-D8EE586924D2",
+    "layout" : "Poster",
+    "name" : "Alien"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-avatar.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Avatar",
+        "listSlug" : "avatar",
+        "traktId" : 33744778,
+        "username" : "Kirky62"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Avatar",
+          "listSlug" : "avatar",
+          "traktId" : 33744778,
+          "username" : "Kirky62"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "3BD60436-564F-46CB-BA06-1CB054768F0B",
+    "layout" : "Poster",
+    "name" : "Avatar"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-back-to-the-future.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Back To The Future",
+        "listSlug" : "back-to-the-future",
+        "traktId" : 33110863,
+        "username" : "Chilly164"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Back To The Future",
+          "listSlug" : "back-to-the-future",
+          "traktId" : 33110863,
+          "username" : "Chilly164"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "7A36A2C2-4A86-4765-9F05-677C2EC58AE1",
+    "layout" : "Poster",
+    "name" : "Back to the Future"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-ben-10.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Ben 10",
+        "listSlug" : "ben-10",
+        "traktId" : 31363305,
+        "username" : "movienerd"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Ben 10",
+          "listSlug" : "ben-10",
+          "traktId" : 31363305,
+          "username" : "movienerd"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "62916904-C541-4F7C-A1DF-390463F5C25F",
+    "layout" : "Poster",
+    "name" : "Ben 10"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-blade-runner.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Blade Runner",
+        "listSlug" : "blade-runner",
+        "traktId" : 23088010,
+        "username" : "armsaw"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Blade Runner",
+          "listSlug" : "blade-runner",
+          "traktId" : 23088010,
+          "username" : "armsaw"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "AED16DAD-68DE-4965-9111-883EC346D3A2",
+    "layout" : "Poster",
+    "name" : "Blade Runner"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-breaking-bad.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Breaking Bad Universe",
+        "listSlug" : "breaking-bad-universe",
+        "traktId" : 32155064,
+        "username" : "Gratiskeder"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Breaking Bad Universe",
+          "listSlug" : "breaking-bad-universe",
+          "traktId" : 32155064,
+          "username" : "Gratiskeder"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "59C4FE31-106D-4880-8642-8C51FDC92D62",
+    "layout" : "Poster",
+    "name" : "Breaking Bad"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-conjuring.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Conjuring Universe",
+        "listSlug" : "the-conjuring-universe",
+        "traktId" : 31878663,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Conjuring Universe",
+          "listSlug" : "the-conjuring-universe",
+          "traktId" : 31878663,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "B727970F-3F9F-4C6A-AB40-6D6F44102300",
+    "layout" : "Poster",
+    "name" : "Conjuring"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-creed.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Creed",
+        "listSlug" : "creed",
+        "traktId" : 26737471,
+        "username" : "MadMax2004"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Creed",
+          "listSlug" : "creed",
+          "traktId" : 26737471,
+          "username" : "MadMax2004"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "6010B0A7-9C78-47AC-8D65-EECCBB8E28B7",
+    "layout" : "Poster",
+    "name" : "Creed"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-dc-comics.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "DC",
+        "listSlug" : "dc",
+        "traktId" : 22276408,
+        "username" : "malicekodi2"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "DC",
+          "listSlug" : "dc",
+          "traktId" : 22276408,
+          "username" : "malicekodi2"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "A12C0570-0294-44F4-A262-E7891ED96D4A",
+    "layout" : "Poster",
+    "name" : "DC Comics"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-dune.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Dune",
+        "listSlug" : "dune",
+        "traktId" : 32081767,
+        "username" : "Hyasima"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Dune",
+          "listSlug" : "dune",
+          "traktId" : 32081767,
+          "username" : "Hyasima"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "63A5A6A2-0926-459F-9E7D-5D95BD50403B",
+    "layout" : "Poster",
+    "name" : "Dune"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-expendables.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Expendables",
+        "listSlug" : "the-expendables",
+        "traktId" : 32347354,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Expendables",
+          "listSlug" : "the-expendables",
+          "traktId" : 32347354,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "F8D9CF4D-8206-4302-86E7-BF226AC05111",
+    "layout" : "Poster",
+    "name" : "The Expendables"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-fast-furious.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Fast And The Furious Movies",
+        "listSlug" : "fast-and-the-furious-movies",
+        "traktId" : 24067488,
+        "username" : "Cr4z1ek01d"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Fast And The Furious Movies",
+          "listSlug" : "fast-and-the-furious-movies",
+          "traktId" : 24067488,
+          "username" : "Cr4z1ek01d"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "6D72792B-1512-4041-B2A8-10699A737EA5",
+    "layout" : "Poster",
+    "name" : "Fast & Furious"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-game-of-thrones.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Game of Thrones",
+        "listSlug" : "game-of-thrones",
+        "traktId" : 33586388,
+        "username" : "Behead974"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Game of Thrones",
+          "listSlug" : "game-of-thrones",
+          "traktId" : 33586388,
+          "username" : "Behead974"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "35671422-9FA1-44AF-8AC9-668F727A6847",
+    "layout" : "Poster",
+    "name" : "Game of Thrones"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-ghostbusters.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Ghostbusters",
+        "listSlug" : "ghostbusters",
+        "traktId" : 32228071,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Ghostbusters",
+          "listSlug" : "ghostbusters",
+          "traktId" : 32228071,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "EDF85C66-D9A9-4AA6-8087-8AA5D4923793",
+    "layout" : "Poster",
+    "name" : "Ghostbusters"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-godfather.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Godfather Collection",
+        "listSlug" : "the-godfather-collection",
+        "traktId" : 32382561,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Godfather Collection",
+          "listSlug" : "the-godfather-collection",
+          "traktId" : 32382561,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "godfather",
+    "layout" : "Poster",
+    "name" : "The Godfather"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-harry-potter.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Harry Potter Collection",
+        "listSlug" : "harry-potter-collection",
+        "traktId" : 32378710,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Harry Potter Collection",
+          "listSlug" : "harry-potter-collection",
+          "traktId" : 32378710,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "harry-potter",
+    "layout" : "Poster",
+    "name" : "Harry Potter"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-herbie.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Herbie",
+        "listSlug" : "herbie",
+        "traktId" : 22228751,
+        "username" : "Allindo"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Herbie",
+          "listSlug" : "herbie",
+          "traktId" : 22228751,
+          "username" : "Allindo"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "herbie",
+    "layout" : "Poster",
+    "name" : "Herbie"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-indiana-jones.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Indiana Jones Collection",
+        "listSlug" : "indiana-jones-collection",
+        "traktId" : 32382610,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Indiana Jones Collection",
+          "listSlug" : "indiana-jones-collection",
+          "traktId" : 32382610,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "indiana-jones",
+    "layout" : "Poster",
+    "name" : "Indiana Jones"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-john-wick.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "John Wick",
+        "listSlug" : "john-wick",
+        "traktId" : 21870066,
+        "username" : "AraChn0id"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "John Wick",
+          "listSlug" : "john-wick",
+          "traktId" : 21870066,
+          "username" : "AraChn0id"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "John Wick",
+          "listSlug" : "john-wick",
+          "traktId" : 31812671,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "john-wick",
+    "layout" : "Poster",
+    "name" : "John Wick"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-jurassic-park.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Jurassic World",
+        "listSlug" : "jurassic-world",
+        "traktId" : 9942936,
+        "username" : "Yoru14"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Jurassic World",
+          "listSlug" : "jurassic-world",
+          "traktId" : 9942936,
+          "username" : "Yoru14"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "jurassic-park",
+    "layout" : "Poster",
+    "name" : "Jurassic Park"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-the-lord-of-the-rings.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Middle Earth",
+        "listSlug" : "middle-earth",
+        "traktId" : 32242000,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Middle Earth",
+          "listSlug" : "middle-earth",
+          "traktId" : 32242000,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "the-lord-of-the-rings",
+    "layout" : "Poster",
+    "name" : "The Lord of the Rings"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-matrix.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Matrix",
+        "listSlug" : "the-matrix",
+        "traktId" : 32496545,
+        "username" : "augusto_fellipe"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Matrix",
+          "listSlug" : "the-matrix",
+          "traktId" : 32496545,
+          "username" : "augusto_fellipe"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "BD4E14F6-5F87-4387-9EED-848BA577EA5B",
+    "layout" : "Poster",
+    "name" : "The Matrix"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-mission-impossible.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Mission Impossible Collection",
+        "listSlug" : "mission-impossible-collection",
+        "traktId" : 32378615,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Mission Impossible Collection",
+          "listSlug" : "mission-impossible-collection",
+          "traktId" : 32378615,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "mission-impossible",
+    "layout" : "Poster",
+    "name" : "Mission Impossible"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-monsterverse.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "MonsterVerse",
+        "listSlug" : "monsterverse",
+        "traktId" : 25439284,
+        "username" : "superfabio"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "MonsterVerse",
+          "listSlug" : "monsterverse",
+          "traktId" : 25439284,
+          "username" : "superfabio"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "monsterverse",
+    "layout" : "Poster",
+    "name" : "MonsterVerse"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-pirates-of-the-caribbean.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Pirates of the Caribbean Collection",
+        "listSlug" : "pirates-of-the-caribbean-collection",
+        "traktId" : 32377354,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Pirates of the Caribbean Collection",
+          "listSlug" : "pirates-of-the-caribbean-collection",
+          "traktId" : 32377354,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "pirates-of-the-caribbean",
+    "layout" : "Poster",
+    "name" : "Pirates of the Caribbean"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-planet-of-the-apes.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Planet of the Apes (Reboot)",
+        "listSlug" : "planet-of-the-apes-reboot",
+        "traktId" : 32377380,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Planet of the Apes (Reboot)",
+          "listSlug" : "planet-of-the-apes-reboot",
+          "traktId" : 32377380,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "planet-of-the-apes",
+    "layout" : "Poster",
+    "name" : "Planet of the Apes"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-rambo.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Rambo Collection",
+        "listSlug" : "rambo-collection",
+        "traktId" : 33133854,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Rambo Collection",
+          "listSlug" : "rambo-collection",
+          "traktId" : 33133854,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "rambo",
+    "layout" : "Poster",
+    "name" : "Rambo"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-rocky.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Rocky Collection",
+        "listSlug" : "rocky-collection",
+        "traktId" : 32402568,
+        "username" : "vanbushi"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Rocky Collection",
+          "listSlug" : "rocky-collection",
+          "traktId" : 32402568,
+          "username" : "vanbushi"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "rocky",
+    "layout" : "Poster",
+    "name" : "Rocky"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-scooby-doo.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "scooby doo",
+        "listSlug" : "scooby-doo",
+        "traktId" : 32416411,
+        "username" : "anj_anj_anj"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "scooby doo",
+          "listSlug" : "scooby-doo",
+          "traktId" : 32416411,
+          "username" : "anj_anj_anj"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "scooby-doo",
+    "layout" : "Poster",
+    "name" : "Scooby-Doo"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-star-trek.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Star Trek (Theatrical Movie Releases)",
+        "listSlug" : "star-trek-theatrical-movie-releases",
+        "traktId" : 30613386,
+        "username" : "arose1"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Star Trek (Theatrical Movie Releases)",
+          "listSlug" : "star-trek-theatrical-movie-releases",
+          "traktId" : 30613386,
+          "username" : "arose1"
+        }
+      },
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Star Trek (canon)",
+          "listSlug" : "star-trek-canon",
+          "traktId" : 967660,
+          "username" : "dgw"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "star-trek",
+    "layout" : "Poster",
+    "name" : "Star Trek"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-star-wars.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Star Wars: Chronological Order",
+        "listSlug" : "star-wars-chronological-order",
+        "traktId" : 32854038,
+        "username" : "Jbagh21"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Star Wars: Chronological Order",
+          "listSlug" : "star-wars-chronological-order",
+          "traktId" : 32854038,
+          "username" : "Jbagh21"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "star-wars",
+    "layout" : "Poster",
+    "name" : "Star Wars"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-the-hunger-games.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "The Hunger Games",
+        "listSlug" : "the-hunger-games",
+        "traktId" : 32376949,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "The Hunger Games",
+          "listSlug" : "the-hunger-games",
+          "traktId" : 32376949,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "the-hunger-games",
+    "layout" : "Poster",
+    "name" : "The Hunger Games"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-tom-jerry.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Tom & Jerry",
+        "listSlug" : "tom-jerry",
+        "traktId" : 3852435,
+        "username" : "SeriousPain"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Tom & Jerry",
+          "listSlug" : "tom-jerry",
+          "traktId" : 3852435,
+          "username" : "SeriousPain"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "tom-and-jerry",
+    "layout" : "Poster",
+    "name" : "Tom & Jerry"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-transformers.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "Transformers",
+        "listSlug" : "transformers",
+        "traktId" : 31815595,
+        "username" : "drjenkins"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "Transformers",
+          "listSlug" : "transformers",
+          "traktId" : 31815595,
+          "username" : "drjenkins"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "transformers",
+    "layout" : "Poster",
+    "name" : "Transformers"
+  },
+  {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-x-men.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "X-Men Universe",
+        "listSlug" : "x-men-universe",
+        "traktId" : 1463555,
+        "username" : "Donxy"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "X-Men Universe",
+          "listSlug" : "x-men-universe",
+          "traktId" : 1463555,
+          "username" : "Donxy"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "x-men",
+    "layout" : "Poster",
+    "name" : "X-Men"
+  }
+]
