@@ -630,6 +630,33 @@
     "name" : "The Matrix"
   },
   {
+    "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-marvel.png",
+    "dataSource" : {
+      "kind" : "traktList",
+      "payload" : {
+        "listName" : "MARVEL Cinematic Universe",
+        "listSlug" : "marvel-cinematic-universe",
+        "traktId" : 1248149,
+        "username" : "Donxy"
+      }
+    },
+    "dataSources" : [
+      {
+        "kind" : "traktList",
+        "payload" : {
+          "listName" : "MARVEL Cinematic Universe",
+          "listSlug" : "marvel-cinematic-universe",
+          "traktId" : 1248149,
+          "username" : "Donxy"
+        }
+      }
+    ],
+    "hideTitle" : true,
+    "id" : "3A5848E4-04D2-42DC-821C-43CFC827F764",
+    "layout" : "Poster",
+    "name" : "Marvel"
+  },
+  {
     "backgroundImageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-mission-impossible.png",
     "dataSource" : {
       "kind" : "traktList",
