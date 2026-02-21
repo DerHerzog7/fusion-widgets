@@ -228,9 +228,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "AA3313E4-6F3A-48FC-8911-B26448420CA9",
+              "id" : "s1",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/appletv-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s1.png",
               "title" : "AppleTV"
             },
             {
@@ -259,10 +259,10 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "DE780D77-1245-4AA7-B8FC-602E74217FE9",
+              "id" : "s2",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/play-lh.googleusercontent.com\/oAYLepFZQcOykFmWK48SznFItniUeZ8Ih4Typjm3qXJ8vT9WvWjwXVBsDkhsepjk8jw",
-              "title" : "Binge "
+              "imageURL" : "https:\/\/i.derherzog.me\/s2.png",
+              "title" : "Binge"
             },
             {
               "dataSources" : [
@@ -290,9 +290,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "251C4472-572E-4191-AAB7-FB104CB580AE",
+              "id" : "s3",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/crunchyroll-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s3.png",
               "title" : "Crunchyroll"
             },
             {
@@ -323,9 +323,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "BC5AFD59-5D6C-4CE3-B3E0-4035C84914C1",
+              "id" : "s4",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/curiositystream-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s4.png",
               "title" : "Curiositystream"
             },
             {
@@ -354,10 +354,10 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "75191D65-54E7-440B-8533-BCD6BFE30523",
+              "id" : "s5",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/discoveryplus-square.png",
-              "title" : "Discovery Plus"
+              "imageURL" : "https:\/\/i.derherzog.me\/s5.png",
+              "title" : "DiscoveryPlus"
             },
             {
               "dataSources" : [
@@ -385,9 +385,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "4CD6F056-3065-4F6A-931B-2ADE8C4DFC45",
+              "id" : "s6",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/disney-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s6.png",
               "title" : "Disney"
             },
             {
@@ -416,10 +416,10 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "7118239E-07F3-4968-A648-FBE9498EF32D",
+              "id" : "s7",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/cdn-1.webcatalog.io\/catalog\/hayu\/hayu-icon-filled-256.png?v=1675594956461",
-              "title" : "Hayu."
+              "imageURL" : "https:\/\/i.derherzog.me\/s7.png",
+              "title" : "Hayu"
             },
             {
               "dataSources" : [
@@ -447,10 +447,10 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "65A8B8AF-CFE9-4D8A-9AC2-7FF4204E9E72",
+              "id" : "s9",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/hbomax-square.png",
-              "title" : "HBO Max"
+              "imageURL" : "https:\/\/i.derherzog.me\/s9.png",
+              "title" : "HBOMax"
             },
             {
               "dataSources" : [
@@ -478,9 +478,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "B0943610-C3CA-43BD-BA81-2E70B15E81A2",
+              "id" : "s10",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/hulu-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s10.png",
               "title" : "Hulu"
             },
             {
@@ -509,9 +509,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "C8E41C14-69FA-4C83-BE7F-C5A756EBF8CB",
+              "id" : "s11",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/netflix-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s11.png",
               "title" : "Netflix"
             },
             {
@@ -540,9 +540,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "41A3EC05-EC49-44A8-B784-7ACCD523C3EB",
+              "id" : "s12",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/www.stan.com.au\/logo-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s12.png",
               "title" : "Stan"
             },
             {
@@ -571,9 +571,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "9E3F7C42-6FCD-4749-AC1D-1EFE2ABBF02C",
+              "id" : "s13",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/m.media-amazon.com\/images\/I\/6180lSxW+mL.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s13.png",
               "title" : "Shudder"
             },
             {
@@ -602,9 +602,9 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "77CAE532-E954-4E68-A1B6-A10DE1FEE6F0",
+              "id" : "s14",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/paramount-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s14.png",
               "title" : "Paramount"
             },
             {
@@ -633,10 +633,10 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "B0D4C68B-53EE-4D32-9B93-451774246BAA",
+              "id" : "s15",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/primevideo-square.png",
-              "title" : "Prime Video"
+              "imageURL" : "https:\/\/i.derherzog.me\/s15.png",
+              "title" : "PrimeVideo"
             },
             {
               "dataSources" : [
@@ -666,15 +666,15 @@
                 }
               ],
               "hideTitle" : true,
-              "id" : "AF96C30D-965B-4341-8A94-440EB727B06E",
+              "id" : "s16",
               "imageAspect" : "square",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/streaming\/square\/orangebyte\/original\/peacock-square.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/s16.png",
               "title" : "Peacock"
             }
           ]
         }
       },
-      "id" : "collection.FF48331E-ED04-4632-B610-B21300456A23",
+      "id" : "streaming.row",
       "title" : "Streaming Services",
       "type" : "collection.row"
     },
@@ -767,7 +767,7 @@
               "hideTitle" : true,
               "id" : "3C12014D-8C24-4624-B47C-2CE9B5A6043C",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/bafta-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/ab.png",
               "title" : "BAFTA  Best Films"
             },
             {
@@ -785,7 +785,7 @@
               "hideTitle" : true,
               "id" : "442CB855-F0F3-43A9-97E1-057A1AF2516F",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/fisa-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/af.png",
               "title" : "Independent Spirit Awards"
             },
             {
@@ -812,7 +812,7 @@
               "hideTitle" : true,
               "id" : "3496D358-3740-490B-BD95-8A75872BCAD5",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/goldenglobes-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/ag.png",
               "title" : "Golden Globes"
             },
             {
@@ -830,7 +830,7 @@
               "hideTitle" : true,
               "id" : "E5D74301-7982-40BC-A2BD-C59E18D8148D",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/iff-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/ai.png",
               "title" : "International Film Festival "
             },
             {
@@ -848,7 +848,7 @@
               "hideTitle" : true,
               "id" : "AF5DB460-73F1-4426-B2F4-DA358F06B327",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/oscars-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/ao.png",
               "title" : "Oscars"
             },
             {
@@ -866,7 +866,7 @@
               "hideTitle" : true,
               "id" : "302473BB-CAB5-4071-8357-CCD7CABAB902",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/awards\/poster\/mousa.a\/viff-poster.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/av.png",
               "title" : "Venice Film Festival"
             }
           ]
@@ -898,7 +898,7 @@
               "hideTitle" : true,
               "id" : "A4795552-1249-4CEE-B490-C4DDC0EA3261",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/2020s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/20.png",
               "title" : "2020s"
             },
             {
@@ -917,7 +917,7 @@
               "hideTitle" : true,
               "id" : "BA2501FA-1168-4FC3-8B02-9C7861F56743",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/2010s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/10.png",
               "title" : "2010s"
             },
             {
@@ -936,7 +936,7 @@
               "hideTitle" : true,
               "id" : "A7AD1CBE-B959-4187-8749-297979DC79CF",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/2000s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/00.png",
               "title" : "2000s"
             },
             {
@@ -955,7 +955,7 @@
               "hideTitle" : true,
               "id" : "D6BB19CA-0F91-4903-BFD7-1DB1B0198865",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/1990s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/90.png",
               "title" : "1990s"
             },
             {
@@ -974,7 +974,7 @@
               "hideTitle" : true,
               "id" : "EDC656AF-C161-4ADC-A890-420FB98F85E8",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/1980s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/80.png",
               "title" : "1980s"
             },
             {
@@ -993,7 +993,7 @@
               "hideTitle" : true,
               "id" : "584773DB-E575-4415-811D-6C91D7F553B0",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/1970s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/70.png",
               "title" : "1970s"
             },
             {
@@ -1012,7 +1012,7 @@
               "hideTitle" : true,
               "id" : "4C1AEB93-D9CB-4DB7-BADD-CC441E88EBA6",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/decades\/wide\/mousa.a\/1960s-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/60.png",
               "title" : "1960s"
             }
           ]
@@ -1042,7 +1042,7 @@
               "hideTitle" : true,
               "id" : "7FE387F1-4D13-4EAE-910B-91DEF72DF792",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/anderson-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/da.png",
               "title" : "Anderson"
             },
             {
@@ -1060,7 +1060,7 @@
               "hideTitle" : true,
               "id" : "932682B6-B43B-48BA-9EB8-16F8659622A0",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/carpenter-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dc.png",
               "title" : "Carpenter"
             },
             {
@@ -1078,7 +1078,7 @@
               "hideTitle" : true,
               "id" : "0F9B82B3-9420-40BA-8576-6759FAF44646",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/depalma-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dd.png",
               "title" : "Depalma"
             },
             {
@@ -1096,7 +1096,7 @@
               "hideTitle" : true,
               "id" : "76EC404A-A7B6-49A7-9C1F-EC35BC2C3556",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/fincher-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/df.png",
               "title" : "Fincher"
             },
             {
@@ -1114,7 +1114,7 @@
               "hideTitle" : true,
               "id" : "D430FC63-C14C-4ACF-AFFB-9E8B35481A8B",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/hitchcock-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dh.png",
               "title" : "Hitchcock"
             },
             {
@@ -1132,7 +1132,7 @@
               "hideTitle" : true,
               "id" : "5672B638-453F-424F-9F9B-82DCE0FCF5AF",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/kubrick-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dk.png",
               "title" : "Kubrick"
             },
             {
@@ -1150,7 +1150,7 @@
               "hideTitle" : true,
               "id" : "BE87B463-15FD-4D31-A847-F3FA4A6C233E",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/nolan-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dn.png",
               "title" : "Nolan"
             },
             {
@@ -1168,7 +1168,7 @@
               "hideTitle" : true,
               "id" : "B7EA8DA5-3C50-460F-91FA-53201D236664",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/scorsese-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/ds.png",
               "title" : "Scorsese"
             },
             {
@@ -1186,7 +1186,7 @@
               "hideTitle" : true,
               "id" : "020B1141-23D4-4C05-AD0A-D1E0BC1839C7",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/spielberg-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dss.png",
               "title" : "Spielberg"
             },
             {
@@ -1204,7 +1204,7 @@
               "hideTitle" : true,
               "id" : "82900530-D56E-47A1-9433-F674051A7A26",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/itsrenoria\/fusion-starter-kit\/refs\/heads\/main\/resources\/widgets\/directors\/wide\/fexm92\/villeneuve-wide.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/dv.png",
               "title" : "Villeneuve"
             }
           ]
@@ -1236,7 +1236,7 @@
               "hideTitle" : true,
               "id" : "9BC345C1-A6EB-4218-A95F-0B42D2878200",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_28.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p1.jpg",
               "title" : "Action"
             },
             {
@@ -1256,7 +1256,7 @@
               "hideTitle" : true,
               "id" : "E1222214-4AE7-49B9-94FF-2953DFBCECC0",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_12.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p2.jpg",
               "title" : "Adventure"
             },
             {
@@ -1276,7 +1276,7 @@
               "hideTitle" : true,
               "id" : "6FB7DAC4-3FBD-4678-9CDC-88C882A425C2",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_16.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p3.jpg",
               "title" : "Animation"
             },
             {
@@ -1296,7 +1296,7 @@
               "hideTitle" : true,
               "id" : "B7087A45-12C6-44CC-B5CD-4268996BB068",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_35.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p4.jpg",
               "title" : "Comedy"
             },
             {
@@ -1316,7 +1316,7 @@
               "hideTitle" : true,
               "id" : "24B4D45F-88E7-4D9A-B1AA-385C6C540098",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_80.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p6.jpg",
               "title" : "Crime"
             },
             {
@@ -1336,7 +1336,7 @@
               "hideTitle" : true,
               "id" : "1E7E5B13-55EF-428A-894D-DA1594AB1546",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_99.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p7.jpg",
               "title" : "Documentary"
             },
             {
@@ -1356,7 +1356,7 @@
               "hideTitle" : true,
               "id" : "356E555C-26FB-4A32-AE1A-501BB11F25C8",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_18.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p8.jpg",
               "title" : "Drama"
             },
             {
@@ -1376,7 +1376,7 @@
               "hideTitle" : true,
               "id" : "35349A49-1111-4CA4-AE56-74A3E2BEC1AD",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_10751.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p9.jpg",
               "title" : "Family"
             },
             {
@@ -1396,7 +1396,7 @@
               "hideTitle" : true,
               "id" : "C6790733-8079-41FD-B15A-755DE80A7726",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_14.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p10.jpg",
               "title" : "Fantasy"
             },
             {
@@ -1416,7 +1416,7 @@
               "hideTitle" : true,
               "id" : "C640BBBC-AB15-4FB9-B57D-8A84E793A45B",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_36.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p11.jpg",
               "title" : "History"
             },
             {
@@ -1436,7 +1436,7 @@
               "hideTitle" : true,
               "id" : "8F741B98-BA72-4DD1-B742-35F597857FFF",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_27.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p12.jpg",
               "title" : "Horror"
             },
             {
@@ -1456,7 +1456,7 @@
               "hideTitle" : true,
               "id" : "C576EDA8-6A18-4EAC-AB7E-A6377D75825E",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_10402.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p13.jpg",
               "title" : "Music"
             },
             {
@@ -1476,7 +1476,7 @@
               "hideTitle" : true,
               "id" : "CA830262-B0C6-43B2-A4B6-3C1F67A39C12",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_9648.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p14.jpg",
               "title" : "Mystery"
             },
             {
@@ -1496,7 +1496,7 @@
               "hideTitle" : true,
               "id" : "CFB33CC9-AF62-4DAC-82DF-3939DB24497C",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_10749.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p15.jpg",
               "title" : "Romance"
             },
             {
@@ -1516,7 +1516,7 @@
               "hideTitle" : true,
               "id" : "D271D608-9AE3-4589-A93D-A2E76B7BC33D",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_878.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p16.jpg",
               "title" : "Science Fiction"
             },
             {
@@ -1536,7 +1536,7 @@
               "hideTitle" : true,
               "id" : "1F20D4BE-C517-4C13-B71F-13B98EFF7378",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_53.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p17.jpg",
               "title" : "Thriller"
             },
             {
@@ -1556,7 +1556,7 @@
               "hideTitle" : true,
               "id" : "F7FC5802-1003-4FAC-B979-ED921953726E",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_10770.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p18.jpg",
               "title" : "Tv Movie"
             },
             {
@@ -1576,7 +1576,7 @@
               "hideTitle" : true,
               "id" : "7CF339CC-FC84-4963-868F-359595D91146",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_10752.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p19.jpg",
               "title" : "War"
             },
             {
@@ -1596,7 +1596,7 @@
               "hideTitle" : true,
               "id" : "7678DA9A-1D34-4889-AF3D-17823A55D92E",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/PaoloCuscela\/localized-appletv-fusion-folders\/main\/resources\/en\/movie\/en_37.jpg",
+              "imageURL" : "https:\/\/i.derherzog.me\/p20.jpg",
               "title" : "Western"
             }
           ]
@@ -1635,7 +1635,7 @@
               "hideTitle" : true,
               "id" : "DF288C76-42F3-4CEB-BC30-A88AD06F06EC",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/D06yHczT\/EBR_TVA_WW_ACTION.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w5.png",
               "title" : "Latest Action"
             },
             {
@@ -1662,7 +1662,7 @@
               "hideTitle" : true,
               "id" : "C31601E0-6D97-4254-930A-82E22C53F20F",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/mkj2JSrf\/EBR_TVA_WW_ANIMATION.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w3.png",
               "title" : "Latest Animation"
             },
             {
@@ -1689,7 +1689,7 @@
               "hideTitle" : true,
               "id" : "5038C87B-95B7-4017-8255-B199648D7C3E",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/Y0RqZxC5\/EBR_TVA_WW_COMEDY.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w4.png",
               "title" : "Latest Comedy"
             },
             {
@@ -1716,7 +1716,7 @@
               "hideTitle" : true,
               "id" : "568EA4EF-33D6-4FDD-B709-979307E80F27",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/Fzps8xKt\/EBR_TVA_WW_DOCUMENTARY.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w7.png",
               "title" : "Latest Documentary"
             },
             {
@@ -1743,7 +1743,7 @@
               "hideTitle" : true,
               "id" : "AA1055EC-3955-4095-A05E-EC9B896C64E9",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/6qc5ghpF\/EBR_TVA_WW_DRAMA_Final.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w1.png",
               "title" : "Latest Drama"
             },
             {
@@ -1770,7 +1770,7 @@
               "hideTitle" : true,
               "id" : "F724D84B-8717-4C86-939D-38F842184D11",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/vTbZ0KGy\/EBR_TVA_WW_HORROR.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w6.png",
               "title" : "Latest Horror"
             },
             {
@@ -1797,7 +1797,7 @@
               "hideTitle" : true,
               "id" : "9DB2EE89-2C70-4F87-BBFD-37FAAAA0611E",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/d36tp9VS\/EBR_TVA_WW_ROMANCE.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w8.png",
               "title" : "Latest Romance"
             },
             {
@@ -1824,7 +1824,7 @@
               "hideTitle" : true,
               "id" : "4813871F-8A7A-48BD-A8E7-B83465E437CA",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/3NYxtq3T\/EBR_TVA_WW_SCIFI.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w2.png",
               "title" : "Latest Science Fiction"
             },
             {
@@ -1851,7 +1851,7 @@
               "hideTitle" : true,
               "id" : "EB8977E5-5F7C-41E3-BCD3-CFE497EABB94",
               "imageAspect" : "wide",
-              "imageURL" : "https:\/\/i.postimg.cc\/QChdfzjr\/EBR_TVA_WW_THRILLER.webp",
+              "imageURL" : "https:\/\/i.derherzog.me\/w9.png",
               "title" : "Latest Thriller"
             }
           ]
@@ -1871,6 +1871,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -1881,6 +1882,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -1892,7 +1894,7 @@
               "hideTitle" : true,
               "id" : "756A8930-2A1D-4703-9E34-BF272ED664A0",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-dc-studios.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st8.png",
               "title" : "DC Studios"
             },
             {
@@ -1900,6 +1902,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -1910,6 +1913,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -1921,7 +1925,7 @@
               "hideTitle" : true,
               "id" : "46AAC809-CF56-40FF-975D-7ADF721970EF",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-dreamworks-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st1.png",
               "title" : "DreamWorks Pictures"
             },
             {
@@ -1929,6 +1933,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -1939,6 +1944,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -1950,7 +1956,7 @@
               "hideTitle" : true,
               "id" : "CE53CCDA-3349-4498-8F34-71693351C0FD",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-lionsgate.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st5.png",
               "title" : "Lionsgate"
             },
             {
@@ -1958,6 +1964,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -1968,6 +1975,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -1979,7 +1987,7 @@
               "hideTitle" : true,
               "id" : "B4FABDC1-8909-4492-9267-F359A54842D4",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-marvel-studios.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st10.png",
               "title" : "Marvel Studios"
             },
             {
@@ -1987,6 +1995,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -1997,6 +2006,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2008,7 +2018,7 @@
               "hideTitle" : true,
               "id" : "4EE39813-71F4-45E5-A875-A5AD1B395242",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-metro-goldwyn-mayer.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st2.png",
               "title" : "Metro–Goldwyn–Mayer"
             },
             {
@@ -2016,6 +2026,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2026,6 +2037,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2037,7 +2049,7 @@
               "hideTitle" : true,
               "id" : "3380E56C-7EA0-44AD-8BBD-C32C9D246F6B",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-miramax.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st6.png",
               "title" : "Miramax"
             },
             {
@@ -2045,6 +2057,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2055,6 +2068,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2066,7 +2080,7 @@
               "hideTitle" : true,
               "id" : "CC515114-68D6-49E4-8A17-551527F8EF56",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-paramount-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st3.png",
               "title" : "Paramount Pictures"
             },
             {
@@ -2074,6 +2088,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2084,6 +2099,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2095,7 +2111,7 @@
               "hideTitle" : true,
               "id" : "9ACAC328-56A6-48D4-96EA-9FDC017212EB",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-searchlight-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st4.png",
               "title" : "Searchlight Pictures"
             },
             {
@@ -2103,6 +2119,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2113,6 +2130,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2124,7 +2142,7 @@
               "hideTitle" : true,
               "id" : "C0FD64B3-F235-40D1-817C-AD54DF012E85",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-sony-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st7.png",
               "title" : "Sony Pictures"
             },
             {
@@ -2132,6 +2150,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2142,6 +2161,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "first_air_date.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2153,7 +2173,7 @@
               "hideTitle" : true,
               "id" : "1FCC93BB-7A7A-44E3-B894-1776410B23E2",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-universal-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st9.png",
               "title" : "Universal Pictures"
             },
             {
@@ -2161,6 +2181,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2171,6 +2192,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2182,7 +2204,7 @@
               "hideTitle" : true,
               "id" : "9CE12567-5150-4812-B612-AEC3B43DECFD",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-walt-disney-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st12.png",
               "title" : "Walt Disney Pictures"
             },
             {
@@ -2190,6 +2212,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "movie",
                     "withCompanies" : [
@@ -2200,6 +2223,7 @@
                 {
                   "kind" : "tmdbDiscover",
                   "payload" : {
+                    "limit" : 30,
                     "sortBy" : "popularity.desc",
                     "type" : "tv",
                     "withCompanies" : [
@@ -2211,13 +2235,13 @@
               "hideTitle" : true,
               "id" : "D22C516F-1B0E-48F8-BB23-9B0923B5926F",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/studios\/studio-warner-bros-pictures.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/st11.png",
               "title" : "Warner Bros. Pictures"
             }
           ]
         }
       },
-      "id" : "collection.A60E8934-D8EE-4CFE-AC47-9007B5483CC1",
+      "id" : "collection.D3BE497B-49C3-45D5-9B97-A198BA30A971",
       "title" : "Studios",
       "type" : "collection.row"
     },
@@ -2241,7 +2265,7 @@
               "hideTitle" : true,
               "id" : "D259D172-72D0-4E4F-A87A-58D1E3CFF81B",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-007.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f1.png",
               "title" : "007"
             },
             {
@@ -2259,7 +2283,7 @@
               "hideTitle" : true,
               "id" : "FE66DB20-15D9-4068-8EEC-D8EE586924D2",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-alien.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f2.png",
               "title" : "Alien"
             },
             {
@@ -2277,7 +2301,7 @@
               "hideTitle" : true,
               "id" : "3BD60436-564F-46CB-BA06-1CB054768F0B",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-avatar.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f3.png",
               "title" : "Avatar"
             },
             {
@@ -2295,7 +2319,7 @@
               "hideTitle" : true,
               "id" : "7A36A2C2-4A86-4765-9F05-677C2EC58AE1",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-back-to-the-future.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f4.png",
               "title" : "Back to the Future"
             },
             {
@@ -2313,7 +2337,7 @@
               "hideTitle" : true,
               "id" : "62916904-C541-4F7C-A1DF-390463F5C25F",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-ben-10.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f5.png",
               "title" : "Ben 10"
             },
             {
@@ -2331,7 +2355,7 @@
               "hideTitle" : true,
               "id" : "AED16DAD-68DE-4965-9111-883EC346D3A2",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-blade-runner.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f6.png",
               "title" : "Blade Runner"
             },
             {
@@ -2349,7 +2373,7 @@
               "hideTitle" : true,
               "id" : "59C4FE31-106D-4880-8642-8C51FDC92D62",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-breaking-bad.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f7.png",
               "title" : "Breaking Bad"
             },
             {
@@ -2367,7 +2391,7 @@
               "hideTitle" : true,
               "id" : "B727970F-3F9F-4C6A-AB40-6D6F44102300",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-conjuring.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f8.png",
               "title" : "Conjuring"
             },
             {
@@ -2385,7 +2409,7 @@
               "hideTitle" : true,
               "id" : "6010B0A7-9C78-47AC-8D65-EECCBB8E28B7",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-creed.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f9.png",
               "title" : "Creed"
             },
             {
@@ -2403,7 +2427,7 @@
               "hideTitle" : true,
               "id" : "A12C0570-0294-44F4-A262-E7891ED96D4A",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-dc-comics.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f10.png",
               "title" : "DC Comics"
             },
             {
@@ -2421,7 +2445,7 @@
               "hideTitle" : true,
               "id" : "63A5A6A2-0926-459F-9E7D-5D95BD50403B",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-dune.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f11.png",
               "title" : "Dune"
             },
             {
@@ -2430,7 +2454,7 @@
                   "kind" : "traktList",
                   "payload" : {
                     "listName" : "The Expendables",
-                    "listSlug" : "the-expendables",
+                    "listSlug" : "the-expandables",
                     "traktId" : 32347354,
                     "username" : "drjenkins"
                   }
@@ -2439,7 +2463,7 @@
               "hideTitle" : true,
               "id" : "F8D9CF4D-8206-4302-86E7-BF226AC05111",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-expendables.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f12.png",
               "title" : "The Expendables"
             },
             {
@@ -2457,7 +2481,7 @@
               "hideTitle" : true,
               "id" : "6D72792B-1512-4041-B2A8-10699A737EA5",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-fast-furious.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f13.png",
               "title" : "Fast & Furious"
             },
             {
@@ -2475,7 +2499,7 @@
               "hideTitle" : true,
               "id" : "35671422-9FA1-44AF-8AC9-668F727A6847",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-game-of-thrones.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f14.png",
               "title" : "Game of Thrones"
             },
             {
@@ -2493,7 +2517,7 @@
               "hideTitle" : true,
               "id" : "EDF85C66-D9A9-4AA6-8087-8AA5D4923793",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-ghostbusters.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f15.png",
               "title" : "Ghostbusters"
             },
             {
@@ -2511,7 +2535,7 @@
               "hideTitle" : true,
               "id" : "godfather",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-godfather.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f16.png",
               "title" : "The Godfather"
             },
             {
@@ -2529,7 +2553,7 @@
               "hideTitle" : true,
               "id" : "harry-potter",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-harry-potter.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f17.png",
               "title" : "Harry Potter"
             },
             {
@@ -2547,7 +2571,7 @@
               "hideTitle" : true,
               "id" : "herbie",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-herbie.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f18.png",
               "title" : "Herbie"
             },
             {
@@ -2565,7 +2589,7 @@
               "hideTitle" : true,
               "id" : "indiana-jones",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-indiana-jones.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f19.png",
               "title" : "Indiana Jones"
             },
             {
@@ -2592,7 +2616,7 @@
               "hideTitle" : true,
               "id" : "john-wick",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-john-wick.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f20.png",
               "title" : "John Wick"
             },
             {
@@ -2610,7 +2634,7 @@
               "hideTitle" : true,
               "id" : "jurassic-park",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-jurassic-park.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f21.png",
               "title" : "Jurassic Park"
             },
             {
@@ -2618,18 +2642,36 @@
                 {
                   "kind" : "traktList",
                   "payload" : {
-                    "listName" : "Middle Earth",
-                    "listSlug" : "middle-earth",
-                    "traktId" : 32242000,
-                    "username" : "drjenkins"
+                    "listName" : "MARVEL Cinematic Universe",
+                    "listSlug" : "marvel-cinematic-universe",
+                    "traktId" : 1248149,
+                    "username" : "Donxy"
                   }
                 }
               ],
               "hideTitle" : true,
-              "id" : "the-lord-of-the-rings",
+              "id" : "3A5848E4-04D2-42DC-821C-43CFC827F764",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-the-lord-of-the-rings.png",
-              "title" : "The Lord of the Rings"
+              "imageURL" : "https:\/\/i.derherzog.me\/f22.png",
+              "title" : "Marvel"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "The Matrix",
+                    "listSlug" : "the-matrix",
+                    "traktId" : 32496545,
+                    "username" : "augusto_fellipe"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "BD4E14F6-5F87-4387-9EED-848BA577EA5B",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.derherzog.me\/f23.png",
+              "title" : "The Matrix"
             },
             {
               "dataSources" : [
@@ -2646,7 +2688,7 @@
               "hideTitle" : true,
               "id" : "mission-impossible",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-mission-impossible.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f24.png",
               "title" : "Mission Impossible"
             },
             {
@@ -2664,7 +2706,7 @@
               "hideTitle" : true,
               "id" : "monsterverse",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-monsterverse.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f25.png",
               "title" : "MonsterVerse"
             },
             {
@@ -2682,7 +2724,7 @@
               "hideTitle" : true,
               "id" : "pirates-of-the-caribbean",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-pirates-of-the-caribbean.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f26.png",
               "title" : "Pirates of the Caribbean"
             },
             {
@@ -2700,7 +2742,7 @@
               "hideTitle" : true,
               "id" : "planet-of-the-apes",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-planet-of-the-apes.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f27.png",
               "title" : "Planet of the Apes"
             },
             {
@@ -2718,7 +2760,7 @@
               "hideTitle" : true,
               "id" : "rambo",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-rambo.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f28.png",
               "title" : "Rambo"
             },
             {
@@ -2736,7 +2778,7 @@
               "hideTitle" : true,
               "id" : "rocky",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-rocky.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f29.png",
               "title" : "Rocky"
             },
             {
@@ -2754,7 +2796,7 @@
               "hideTitle" : true,
               "id" : "scooby-doo",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-scooby-doo.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f30.png",
               "title" : "Scooby-Doo"
             },
             {
@@ -2781,7 +2823,7 @@
               "hideTitle" : true,
               "id" : "star-trek",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-star-trek.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f31.png",
               "title" : "Star Trek"
             },
             {
@@ -2799,7 +2841,7 @@
               "hideTitle" : true,
               "id" : "star-wars",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-star-wars.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f32.png",
               "title" : "Star Wars"
             },
             {
@@ -2817,8 +2859,26 @@
               "hideTitle" : true,
               "id" : "the-hunger-games",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-the-hunger-games.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f33.png",
               "title" : "The Hunger Games"
+            },
+            {
+              "dataSources" : [
+                {
+                  "kind" : "traktList",
+                  "payload" : {
+                    "listName" : "Middle Earth",
+                    "listSlug" : "middle-earth",
+                    "traktId" : 32242000,
+                    "username" : "drjenkins"
+                  }
+                }
+              ],
+              "hideTitle" : true,
+              "id" : "the-lord-of-the-rings",
+              "imageAspect" : "poster",
+              "imageURL" : "https:\/\/i.derherzog.me\/f34.png",
+              "title" : "The Lord of the Rings"
             },
             {
               "dataSources" : [
@@ -2835,7 +2895,7 @@
               "hideTitle" : true,
               "id" : "tom-and-jerry",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-tom-jerry.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f35.png",
               "title" : "Tom & Jerry"
             },
             {
@@ -2853,7 +2913,7 @@
               "hideTitle" : true,
               "id" : "transformers",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-transformers.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f36.png",
               "title" : "Transformers"
             },
             {
@@ -2871,13 +2931,13 @@
               "hideTitle" : true,
               "id" : "x-men",
               "imageAspect" : "poster",
-              "imageURL" : "https:\/\/raw.githubusercontent.com\/Yakuza2635\/fusion_app-content\/main\/folders\/posters\/collections\/collection-x-men.png",
+              "imageURL" : "https:\/\/i.derherzog.me\/f37.png",
               "title" : "X-Men"
             }
           ]
         }
       },
-      "id" : "collection.2C92BBD0-7C8F-4B56-B1B4-F08829A05A7F",
+      "id" : "collection.D26B2F92-BF3C-45C5-BAF7-7DCC3A8E8B86",
       "title" : "Franchises",
       "type" : "collection.row"
     }
